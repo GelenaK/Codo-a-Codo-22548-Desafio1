@@ -1,0 +1,87 @@
+*
+{
+   margin: 0;
+   padding: 0; 
+}
+
+
+nav{
+   text-align: right;
+   margin-top: -50px;
+     
+}
+
+.menu
+{
+   background-color:lightgrey;
+   background-size: 70%;
+   width: 90%;
+   height: 2px;
+   padding:14px;
+   margin: 70px;
+   font-size: 12px;  
+         
+}
+
+#texto
+{
+   width: 300px;
+   margin: -7px 880px  
+}
+
+
+main
+{
+   position: relative;
+   margin-left: 300px;
+   top: -40px;
+   
+}
+
+.logo1
+{
+   margin-top: -30px;
+   margin-left: 30px;
+  
+   
+}
+
+
+.logo2
+{
+   margin-top:10px;
+    
+}
+
+div p
+{
+  
+  width: 700px;
+  font-size: 14px
+}
+
+.texto_footer 
+{
+   background-color:lightgrey;
+   background-size: 70%;
+   width: 90%;
+   height: 2px;
+   padding:8px;
+   margin: 70px;
+   margin-top:10px ;
+   font-size: 10px;
+   
+}
+#diseño
+{
+   background-color:lightgrey;
+   width: 300px;
+   margin: -7px 450px  
+      
+}
+
+body
+{
+   border:1px solid lightgray;
+   margin: 20px  
+}
